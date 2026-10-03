@@ -1,0 +1,19 @@
+observation_id,ticket_id,variable,value,lower_fence,upper_fence,data_status,outlier_rule
+OBS-030,MIG-006,execution_time_sec,308.2,1.1625000000000156,166.2625,synthetic,1.5 x IQR
+OBS-110,MIG-022,execution_time_sec,317.7,1.1625000000000156,166.2625,synthetic,1.5 x IQR
+OBS-170,MIG-034,execution_time_sec,272.5,1.1625000000000156,166.2625,synthetic,1.5 x IQR
+OBS-177,MIG-036,execution_time_sec,175.1,1.1625000000000156,166.2625,synthetic,1.5 x IQR
+OBS-030,MIG-006,token_usage,4523.0,1163.625,3420.625,synthetic,1.5 x IQR
+OBS-110,MIG-022,token_usage,4937.0,1163.625,3420.625,synthetic,1.5 x IQR
+OBS-170,MIG-034,token_usage,5122.0,1163.625,3420.625,synthetic,1.5 x IQR
+OBS-030,MIG-006,accuracy_score,0.683,0.784875,1.0358749999999999,synthetic,1.5 x IQR
+OBS-110,MIG-022,accuracy_score,0.713,0.784875,1.0358749999999999,synthetic,1.5 x IQR
+OBS-170,MIG-034,accuracy_score,0.693,0.784875,1.0358749999999999,synthetic,1.5 x IQR
+OBS-030,MIG-006,test_pass_rate,0.688,0.8346250000000002,1.0516249999999998,synthetic,1.5 x IQR
+OBS-110,MIG-022,test_pass_rate,0.704,0.8346250000000002,1.0516249999999998,synthetic,1.5 x IQR
+OBS-170,MIG-034,test_pass_rate,0.778,0.8346250000000002,1.0516249999999998,synthetic,1.5 x IQR
+OBS-030,MIG-006,error_count,5.0,-1.5,2.5,synthetic,1.5 x IQR
+OBS-110,MIG-022,error_count,4.0,-1.5,2.5,synthetic,1.5 x IQR
+OBS-134,MIG-027,error_count,3.0,-1.5,2.5,synthetic,1.5 x IQR
+OBS-170,MIG-034,error_count,6.0,-1.5,2.5,synthetic,1.5 x IQR
+OBS-179,MIG-036,error_count,3.0,-1.5,2.5,synthetic,1.5 x IQR

@@ -1,0 +1,37 @@
+ticket_id,component_area,migration_task,migration_category,difficulty
+MIG-001,App Bar,Replace legacy app bar container with Material 3 top app bar,Component,Medium
+MIG-002,App Bar,Migrate home title typography to Material 3 title large,Styling,Easy
+MIG-003,App Bar,Update notification action icon and content description,Component,Easy
+MIG-004,App Bar,Update profile action icon and navigation behavior,Behavior,Medium
+MIG-005,App Bar,Apply app bar color and elevation tokens,Styling,Medium
+MIG-006,App Bar,Verify app bar layout across compact and expanded widths,Behavior,Hard
+MIG-007,Balance,Migrate balance card container and rounded shape,Component,Medium
+MIG-008,Balance,Update available balance label typography,Styling,Easy
+MIG-009,Balance,Update balance amount typography and currency formatting,Styling,Medium
+MIG-010,Balance,Migrate balance visibility toggle icon,Component,Medium
+MIG-011,Balance,Implement balance visibility toggle state,Behavior,Hard
+MIG-012,Balance,Migrate Add Money call to action button,Component,Medium
+MIG-013,Balance,Migrate Withdraw call to action button,Component,Medium
+MIG-014,Balance,Verify balance card loading and masked states,State,Hard
+MIG-015,Quick Action,Migrate Send quick action component,Component,Medium
+MIG-016,Quick Action,Migrate Top Up quick action component,Component,Medium
+MIG-017,Quick Action,Migrate Pay quick action component,Component,Medium
+MIG-018,Quick Action,Migrate More quick action component,Component,Medium
+MIG-019,Quick Action,Apply quick action icon container styling,Styling,Easy
+MIG-020,Quick Action,Update quick action labels and supporting typography,Styling,Easy
+MIG-021,Quick Action,Wire quick action click navigation events,Behavior,Hard
+MIG-022,Quick Action,Verify quick action row spacing and responsive wrapping,Behavior,Hard
+MIG-023,Promo,Migrate promotional card container to Material 3 card,Component,Medium
+MIG-024,Promo,Update promotional headline and supporting copy styles,Styling,Easy
+MIG-025,Promo,Migrate promotional illustration and content description,Component,Medium
+MIG-026,Promo,Wire promotional card CTA action,Behavior,Hard
+MIG-027,Transactions,Migrate recent transactions section header,Component,Easy
+MIG-028,Transactions,Update transaction row typography hierarchy,Styling,Medium
+MIG-029,Transactions,Migrate transaction status and amount styling,Styling,Medium
+MIG-030,Transactions,Implement transaction row click behavior,Behavior,Hard
+MIG-031,Transactions,Verify transaction list spacing and divider treatment,Styling,Medium
+MIG-032,UI States,Create home screen loading state with Material 3 indicators,State,Hard
+MIG-033,UI States,Create home screen empty transactions state,State,Medium
+MIG-034,UI States,Create home screen error state and retry action,State,Hard
+MIG-035,UI States,Add offline banner state styling,State,Medium
+MIG-036,UI States,Verify screen state transitions and accessibility labels,Behavior,Hard

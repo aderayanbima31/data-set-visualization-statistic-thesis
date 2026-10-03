@@ -1,0 +1,181 @@
+observation_id,ticket_id,agent_id,execution_time_sec,token_usage,accuracy_score,test_pass_rate,error_count,status,data_status
+OBS-001,MIG-001,synthetic-agent-A,55.4,2166,0.924,0.982,0,Passed,synthetic
+OBS-002,MIG-001,synthetic-agent-B,70.7,1974,0.879,1.0,1,Passed with fixes,synthetic
+OBS-003,MIG-001,synthetic-agent-C,83.7,2123,0.945,0.918,1,Passed,synthetic
+OBS-004,MIG-001,synthetic-agent-A,71.5,2177,0.907,0.939,0,Passed,synthetic
+OBS-005,MIG-001,synthetic-agent-B,63.9,2204,0.947,0.901,2,Passed with fixes,synthetic
+OBS-006,MIG-002,synthetic-agent-C,45.8,1890,0.958,0.958,2,Passed with fixes,synthetic
+OBS-007,MIG-002,synthetic-agent-A,42.4,1877,0.969,1.0,0,Passed,synthetic
+OBS-008,MIG-002,synthetic-agent-B,52.0,1875,0.981,0.935,0,Passed,synthetic
+OBS-009,MIG-002,synthetic-agent-C,56.2,1954,0.982,0.983,0,Passed,synthetic
+OBS-010,MIG-002,synthetic-agent-A,53.5,1789,0.95,1.0,0,Passed,synthetic
+OBS-011,MIG-003,synthetic-agent-B,44.3,1666,0.949,1.0,1,Passed,synthetic
+OBS-012,MIG-003,synthetic-agent-C,47.8,1712,0.941,1.0,0,Passed,synthetic
+OBS-013,MIG-003,synthetic-agent-A,40.7,1952,0.988,0.96,0,Passed,synthetic
+OBS-014,MIG-003,synthetic-agent-B,55.5,1826,0.947,0.995,0,Passed,synthetic
+OBS-015,MIG-003,synthetic-agent-C,44.0,1913,0.953,0.966,1,Passed,synthetic
+OBS-016,MIG-004,synthetic-agent-A,57.7,2409,0.913,0.963,1,Passed,synthetic
+OBS-017,MIG-004,synthetic-agent-B,92.9,2642,0.888,0.922,0,Passed,synthetic
+OBS-018,MIG-004,synthetic-agent-C,94.7,2372,0.881,0.95,0,Passed,synthetic
+OBS-019,MIG-004,synthetic-agent-A,89.0,2286,0.88,0.934,1,Passed with fixes,synthetic
+OBS-020,MIG-004,synthetic-agent-B,74.4,2368,0.904,1.0,1,Passed,synthetic
+OBS-021,MIG-005,synthetic-agent-C,72.6,2182,0.887,0.94,0,Passed,synthetic
+OBS-022,MIG-005,synthetic-agent-A,92.7,2457,0.869,1.0,0,Passed with fixes,synthetic
+OBS-023,MIG-005,synthetic-agent-B,60.7,2204,0.922,0.937,0,Passed,synthetic
+OBS-024,MIG-005,synthetic-agent-C,81.2,2029,0.969,0.97,0,Passed,synthetic
+OBS-025,MIG-005,synthetic-agent-A,74.9,2082,0.99,0.971,0,Passed,synthetic
+OBS-026,MIG-006,synthetic-agent-B,119.7,2674,0.852,0.933,2,Passed with fixes,synthetic
+OBS-027,MIG-006,synthetic-agent-C,92.3,2611,0.886,0.981,0,Passed,synthetic
+OBS-028,MIG-006,synthetic-agent-A,129.4,2696,0.842,0.945,0,Passed with fixes,synthetic
+OBS-029,MIG-006,synthetic-agent-B,127.6,2485,0.808,0.894,1,Passed with fixes,synthetic
+OBS-030,MIG-006,synthetic-agent-C,308.2,4523,0.683,0.688,5,Failed,synthetic
+OBS-031,MIG-007,synthetic-agent-A,60.5,2153,0.975,0.931,1,Passed,synthetic
+OBS-032,MIG-007,synthetic-agent-B,90.4,2198,0.921,0.929,1,Passed,synthetic
+OBS-033,MIG-007,synthetic-agent-C,56.5,2346,0.937,0.942,2,Passed with fixes,synthetic
+OBS-034,MIG-007,synthetic-agent-A,89.4,1961,0.949,0.915,1,Passed,synthetic
+OBS-035,MIG-007,synthetic-agent-B,82.1,2003,0.934,0.922,1,Passed,synthetic
+OBS-036,MIG-008,synthetic-agent-C,73.7,2093,0.944,0.915,0,Passed,synthetic
+OBS-037,MIG-008,synthetic-agent-A,53.1,1919,0.945,0.963,1,Passed,synthetic
+OBS-038,MIG-008,synthetic-agent-B,61.7,1964,0.922,0.934,0,Passed,synthetic
+OBS-039,MIG-008,synthetic-agent-C,53.2,1748,0.952,1.0,0,Passed,synthetic
+OBS-040,MIG-008,synthetic-agent-A,49.6,1896,0.976,0.956,1,Passed,synthetic
+OBS-041,MIG-009,synthetic-agent-B,88.2,2249,0.947,1.0,1,Passed,synthetic
+OBS-042,MIG-009,synthetic-agent-C,77.6,2121,0.921,0.946,0,Passed,synthetic
+OBS-043,MIG-009,synthetic-agent-A,88.2,2465,0.961,0.987,1,Passed,synthetic
+OBS-044,MIG-009,synthetic-agent-B,96.1,2266,0.919,0.923,1,Passed,synthetic
+OBS-045,MIG-009,synthetic-agent-C,73.0,2036,0.895,0.928,0,Passed,synthetic
+OBS-046,MIG-010,synthetic-agent-A,75.5,2012,0.914,0.954,0,Passed,synthetic
+OBS-047,MIG-010,synthetic-agent-B,47.3,2097,0.925,0.934,2,Passed with fixes,synthetic
+OBS-048,MIG-010,synthetic-agent-C,94.6,1882,0.896,0.91,1,Passed,synthetic
+OBS-049,MIG-010,synthetic-agent-A,94.9,2262,0.957,0.987,0,Passed,synthetic
+OBS-050,MIG-010,synthetic-agent-B,65.7,2132,0.956,0.957,1,Passed,synthetic
+OBS-051,MIG-011,synthetic-agent-C,124.1,2584,0.88,0.889,2,Passed with fixes,synthetic
+OBS-052,MIG-011,synthetic-agent-A,110.1,2654,0.873,0.936,2,Passed with fixes,synthetic
+OBS-053,MIG-011,synthetic-agent-B,131.1,2652,0.891,0.894,1,Passed with fixes,synthetic
+OBS-054,MIG-011,synthetic-agent-C,98.7,2751,0.86,0.914,0,Passed with fixes,synthetic
+OBS-055,MIG-011,synthetic-agent-A,142.1,2800,0.858,0.986,2,Passed with fixes,synthetic
+OBS-056,MIG-012,synthetic-agent-B,56.1,2076,0.889,0.92,0,Passed,synthetic
+OBS-057,MIG-012,synthetic-agent-C,86.4,1998,0.963,0.985,0,Passed,synthetic
+OBS-058,MIG-012,synthetic-agent-A,74.8,2327,0.889,0.923,0,Passed,synthetic
+OBS-059,MIG-012,synthetic-agent-B,60.5,2206,0.878,0.938,0,Passed with fixes,synthetic
+OBS-060,MIG-012,synthetic-agent-C,68.5,2004,0.935,0.897,0,Passed with fixes,synthetic
+OBS-061,MIG-013,synthetic-agent-A,83.0,2122,0.931,0.959,0,Passed,synthetic
+OBS-062,MIG-013,synthetic-agent-B,82.3,2340,0.936,1.0,0,Passed,synthetic
+OBS-063,MIG-013,synthetic-agent-C,91.0,2236,0.899,0.904,0,Passed,synthetic
+OBS-064,MIG-013,synthetic-agent-A,77.9,2057,0.893,0.906,1,Passed,synthetic
+OBS-065,MIG-013,synthetic-agent-B,84.7,2218,0.89,0.921,0,Passed,synthetic
+OBS-066,MIG-014,synthetic-agent-C,116.0,2677,0.853,0.915,1,Passed with fixes,synthetic
+OBS-067,MIG-014,synthetic-agent-A,147.2,2748,0.848,0.875,2,Passed with fixes,synthetic
+OBS-068,MIG-014,synthetic-agent-B,132.0,2382,0.856,0.942,1,Passed with fixes,synthetic
+OBS-069,MIG-014,synthetic-agent-C,108.2,2826,0.858,0.892,1,Passed with fixes,synthetic
+OBS-070,MIG-014,synthetic-agent-A,124.7,3034,0.843,0.886,0,Passed with fixes,synthetic
+OBS-071,MIG-015,synthetic-agent-B,59.4,1879,0.905,0.916,1,Passed,synthetic
+OBS-072,MIG-015,synthetic-agent-C,69.4,1962,0.893,0.971,1,Passed,synthetic
+OBS-073,MIG-015,synthetic-agent-A,55.0,1990,0.899,0.927,0,Passed,synthetic
+OBS-074,MIG-015,synthetic-agent-B,48.7,2001,0.929,0.951,1,Passed,synthetic
+OBS-075,MIG-015,synthetic-agent-C,62.4,2233,0.909,0.893,0,Passed with fixes,synthetic
+OBS-076,MIG-016,synthetic-agent-A,68.1,2103,0.954,1.0,1,Passed,synthetic
+OBS-077,MIG-016,synthetic-agent-B,84.2,2172,0.913,0.97,1,Passed,synthetic
+OBS-078,MIG-016,synthetic-agent-C,62.4,2013,0.937,0.928,0,Passed,synthetic
+OBS-079,MIG-016,synthetic-agent-A,68.1,1902,0.903,0.944,0,Passed,synthetic
+OBS-080,MIG-016,synthetic-agent-B,78.2,2068,0.883,0.958,0,Passed,synthetic
+OBS-081,MIG-017,synthetic-agent-C,85.8,2062,0.917,0.969,1,Passed,synthetic
+OBS-082,MIG-017,synthetic-agent-A,67.9,2073,0.887,0.926,0,Passed,synthetic
+OBS-083,MIG-017,synthetic-agent-B,77.8,1940,0.855,0.982,0,Passed with fixes,synthetic
+OBS-084,MIG-017,synthetic-agent-C,76.9,2302,0.92,0.912,0,Passed,synthetic
+OBS-085,MIG-017,synthetic-agent-A,84.3,1992,0.927,1.0,1,Passed,synthetic
+OBS-086,MIG-018,synthetic-agent-B,72.4,2171,0.958,0.921,0,Passed,synthetic
+OBS-087,MIG-018,synthetic-agent-C,63.1,2266,0.938,0.945,0,Passed,synthetic
+OBS-088,MIG-018,synthetic-agent-A,48.5,2339,0.894,0.923,0,Passed,synthetic
+OBS-089,MIG-018,synthetic-agent-B,63.1,2048,0.904,0.97,0,Passed,synthetic
+OBS-090,MIG-018,synthetic-agent-C,80.2,2457,0.952,0.948,0,Passed,synthetic
+OBS-091,MIG-019,synthetic-agent-A,48.4,1818,0.932,1.0,1,Passed,synthetic
+OBS-092,MIG-019,synthetic-agent-B,46.3,2060,0.927,1.0,2,Passed with fixes,synthetic
+OBS-093,MIG-019,synthetic-agent-C,38.8,1910,0.981,0.993,0,Passed,synthetic
+OBS-094,MIG-019,synthetic-agent-A,66.0,1881,0.973,0.956,0,Passed,synthetic
+OBS-095,MIG-019,synthetic-agent-B,43.4,1979,0.926,0.995,1,Passed,synthetic
+OBS-096,MIG-020,synthetic-agent-C,51.1,1869,0.984,0.967,1,Passed,synthetic
+OBS-097,MIG-020,synthetic-agent-A,34.4,1848,0.887,0.992,0,Passed,synthetic
+OBS-098,MIG-020,synthetic-agent-B,57.0,1822,0.94,0.94,1,Passed,synthetic
+OBS-099,MIG-020,synthetic-agent-C,44.6,1848,0.956,0.958,0,Passed,synthetic
+OBS-100,MIG-020,synthetic-agent-A,45.9,1627,0.995,0.986,1,Passed,synthetic
+OBS-101,MIG-021,synthetic-agent-B,104.3,2655,0.834,0.872,1,Passed with fixes,synthetic
+OBS-102,MIG-021,synthetic-agent-C,105.4,2697,0.872,0.882,2,Passed with fixes,synthetic
+OBS-103,MIG-021,synthetic-agent-A,106.3,2718,0.828,0.91,2,Passed with fixes,synthetic
+OBS-104,MIG-021,synthetic-agent-B,93.1,2844,0.904,0.893,1,Passed with fixes,synthetic
+OBS-105,MIG-021,synthetic-agent-C,119.2,2515,0.895,0.963,1,Passed,synthetic
+OBS-106,MIG-022,synthetic-agent-A,111.1,2651,0.853,0.882,1,Passed with fixes,synthetic
+OBS-107,MIG-022,synthetic-agent-B,85.4,2538,0.858,0.886,0,Passed with fixes,synthetic
+OBS-108,MIG-022,synthetic-agent-C,102.0,2452,0.898,0.864,1,Passed with fixes,synthetic
+OBS-109,MIG-022,synthetic-agent-A,137.1,2453,0.874,0.95,1,Passed with fixes,synthetic
+OBS-110,MIG-022,synthetic-agent-B,317.7,4937,0.713,0.704,4,Failed,synthetic
+OBS-111,MIG-023,synthetic-agent-C,84.0,2079,0.925,0.971,0,Passed,synthetic
+OBS-112,MIG-023,synthetic-agent-A,85.4,2049,0.933,1.0,1,Passed,synthetic
+OBS-113,MIG-023,synthetic-agent-B,89.0,2072,0.925,0.92,1,Passed,synthetic
+OBS-114,MIG-023,synthetic-agent-C,78.2,2155,0.874,0.866,1,Passed with fixes,synthetic
+OBS-115,MIG-023,synthetic-agent-A,78.9,2080,0.887,0.956,1,Passed,synthetic
+OBS-116,MIG-024,synthetic-agent-B,48.1,1967,0.994,0.987,0,Passed,synthetic
+OBS-117,MIG-024,synthetic-agent-C,45.1,2125,0.956,0.915,1,Passed,synthetic
+OBS-118,MIG-024,synthetic-agent-A,64.2,1913,0.988,0.918,1,Passed,synthetic
+OBS-119,MIG-024,synthetic-agent-B,77.8,2002,0.978,0.913,0,Passed,synthetic
+OBS-120,MIG-024,synthetic-agent-C,65.1,1975,0.995,0.987,0,Passed,synthetic
+OBS-121,MIG-025,synthetic-agent-A,97.2,2271,0.919,0.963,1,Passed,synthetic
+OBS-122,MIG-025,synthetic-agent-B,81.2,1959,0.91,0.966,2,Passed with fixes,synthetic
+OBS-123,MIG-025,synthetic-agent-C,68.6,2023,0.887,0.95,0,Passed,synthetic
+OBS-124,MIG-025,synthetic-agent-A,86.8,2046,0.914,0.91,0,Passed,synthetic
+OBS-125,MIG-025,synthetic-agent-B,67.8,2067,0.934,0.942,0,Passed,synthetic
+OBS-126,MIG-026,synthetic-agent-C,109.4,2814,0.821,0.875,0,Passed with fixes,synthetic
+OBS-127,MIG-026,synthetic-agent-A,117.4,2645,0.854,0.913,1,Passed with fixes,synthetic
+OBS-128,MIG-026,synthetic-agent-B,102.3,2644,0.869,0.924,1,Passed with fixes,synthetic
+OBS-129,MIG-026,synthetic-agent-C,113.3,2713,0.887,0.959,0,Passed,synthetic
+OBS-130,MIG-026,synthetic-agent-A,143.4,2900,0.824,0.902,1,Passed with fixes,synthetic
+OBS-131,MIG-027,synthetic-agent-B,60.2,1813,0.967,0.928,1,Passed,synthetic
+OBS-132,MIG-027,synthetic-agent-C,61.5,2063,0.992,0.98,0,Passed,synthetic
+OBS-133,MIG-027,synthetic-agent-A,63.0,1759,0.908,0.933,1,Passed,synthetic
+OBS-134,MIG-027,synthetic-agent-B,52.3,2003,0.986,0.968,3,Passed with fixes,synthetic
+OBS-135,MIG-027,synthetic-agent-C,51.0,1739,0.961,0.885,1,Passed with fixes,synthetic
+OBS-136,MIG-028,synthetic-agent-A,83.0,2336,0.946,0.937,0,Passed,synthetic
+OBS-137,MIG-028,synthetic-agent-B,78.7,2183,0.936,0.926,1,Passed,synthetic
+OBS-138,MIG-028,synthetic-agent-C,96.8,2244,0.939,0.914,0,Passed,synthetic
+OBS-139,MIG-028,synthetic-agent-A,110.4,2517,0.927,0.903,1,Passed,synthetic
+OBS-140,MIG-028,synthetic-agent-B,98.3,2571,0.92,0.942,1,Passed,synthetic
+OBS-141,MIG-029,synthetic-agent-C,66.4,2337,0.932,0.973,0,Passed,synthetic
+OBS-142,MIG-029,synthetic-agent-A,80.7,2209,0.917,0.926,0,Passed,synthetic
+OBS-143,MIG-029,synthetic-agent-B,63.1,2195,0.925,0.95,1,Passed,synthetic
+OBS-144,MIG-029,synthetic-agent-C,85.8,2264,0.935,0.923,0,Passed,synthetic
+OBS-145,MIG-029,synthetic-agent-A,74.9,2561,0.897,0.994,2,Passed with fixes,synthetic
+OBS-146,MIG-030,synthetic-agent-B,105.8,2703,0.848,1.0,0,Passed with fixes,synthetic
+OBS-147,MIG-030,synthetic-agent-C,138.2,2713,0.864,0.94,1,Passed with fixes,synthetic
+OBS-148,MIG-030,synthetic-agent-A,101.0,2561,0.879,0.878,1,Passed with fixes,synthetic
+OBS-149,MIG-030,synthetic-agent-B,116.7,2880,0.839,0.857,2,Passed with fixes,synthetic
+OBS-150,MIG-030,synthetic-agent-C,141.3,2712,0.897,0.878,2,Passed with fixes,synthetic
+OBS-151,MIG-031,synthetic-agent-A,61.9,2137,0.925,0.924,1,Passed,synthetic
+OBS-152,MIG-031,synthetic-agent-B,78.1,2182,0.912,0.976,0,Passed,synthetic
+OBS-153,MIG-031,synthetic-agent-C,100.4,2316,0.955,0.931,0,Passed,synthetic
+OBS-154,MIG-031,synthetic-agent-A,78.9,2227,0.863,0.907,0,Passed with fixes,synthetic
+OBS-155,MIG-031,synthetic-agent-B,94.9,2392,0.956,0.938,1,Passed,synthetic
+OBS-156,MIG-032,synthetic-agent-C,108.8,2840,0.841,0.942,1,Passed with fixes,synthetic
+OBS-157,MIG-032,synthetic-agent-A,119.4,2720,0.835,0.921,0,Passed with fixes,synthetic
+OBS-158,MIG-032,synthetic-agent-B,116.4,2993,0.837,0.885,1,Passed with fixes,synthetic
+OBS-159,MIG-032,synthetic-agent-C,147.4,2605,0.867,0.916,1,Passed with fixes,synthetic
+OBS-160,MIG-032,synthetic-agent-A,135.2,2724,0.837,0.945,2,Passed with fixes,synthetic
+OBS-161,MIG-033,synthetic-agent-B,93.2,2389,0.916,0.961,2,Passed with fixes,synthetic
+OBS-162,MIG-033,synthetic-agent-C,99.0,2439,0.967,0.98,2,Passed with fixes,synthetic
+OBS-163,MIG-033,synthetic-agent-A,64.2,2482,0.885,1.0,1,Passed,synthetic
+OBS-164,MIG-033,synthetic-agent-B,79.8,2177,0.865,1.0,1,Passed with fixes,synthetic
+OBS-165,MIG-033,synthetic-agent-C,132.6,2469,0.881,1.0,1,Passed,synthetic
+OBS-166,MIG-034,synthetic-agent-A,110.9,2741,0.863,0.895,1,Passed with fixes,synthetic
+OBS-167,MIG-034,synthetic-agent-B,81.8,2823,0.856,0.923,1,Passed with fixes,synthetic
+OBS-168,MIG-034,synthetic-agent-C,111.1,2752,0.893,0.984,1,Passed,synthetic
+OBS-169,MIG-034,synthetic-agent-A,139.7,2822,0.907,0.978,0,Passed,synthetic
+OBS-170,MIG-034,synthetic-agent-B,272.5,5122,0.693,0.778,6,Failed,synthetic
+OBS-171,MIG-035,synthetic-agent-C,73.2,2386,0.907,0.974,0,Passed,synthetic
+OBS-172,MIG-035,synthetic-agent-A,110.6,2326,0.873,0.932,0,Passed with fixes,synthetic
+OBS-173,MIG-035,synthetic-agent-B,93.7,2515,0.893,0.965,1,Passed,synthetic
+OBS-174,MIG-035,synthetic-agent-C,92.1,2279,0.93,0.931,0,Passed,synthetic
+OBS-175,MIG-035,synthetic-agent-A,104.5,2596,0.913,0.964,0,Passed,synthetic
+OBS-176,MIG-036,synthetic-agent-B,117.3,2848,0.814,0.936,1,Passed with fixes,synthetic
+OBS-177,MIG-036,synthetic-agent-C,175.1,2674,0.87,0.912,2,Passed with fixes,synthetic
+OBS-178,MIG-036,synthetic-agent-A,153.9,2906,0.85,0.969,2,Passed with fixes,synthetic
+OBS-179,MIG-036,synthetic-agent-B,132.9,2757,0.897,0.953,3,Passed with fixes,synthetic
+OBS-180,MIG-036,synthetic-agent-C,133.4,2674,0.905,0.943,1,Passed,synthetic

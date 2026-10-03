@@ -1,0 +1,7 @@
+variable,mode,mode_frequency,data_status
+component_area,"Balance, Quick Action",40,synthetic
+migration_category,Component,65,synthetic
+difficulty,Medium,95,synthetic
+agent_id,"synthetic-agent-A, synthetic-agent-B, synthetic-agent-C",60,synthetic
+status,Passed,114,synthetic
+error_count,0,79,synthetic
