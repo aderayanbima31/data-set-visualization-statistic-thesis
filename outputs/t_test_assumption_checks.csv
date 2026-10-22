@@ -1,0 +1,6 @@
+test_id,diagnostic,statistic,p_value
+one_sample_execution_time,Shapiro-Wilk normality of task-level times,0.9213105604499673,0.013756539388635488
+paired_agent_accuracy,Shapiro-Wilk normality of paired accuracy differences,0.9481017330448839,0.09113095846209214
+independent_difficulty_time,Shapiro-Wilk normality of hard-task times,0.9370575647333361,0.5207604563798709
+independent_difficulty_time,Shapiro-Wilk normality of easy-task times,0.8424677104964001,0.10474964382763434
+independent_difficulty_time,Levene variance-homogeneity diagnostic,3.4538566604913306,0.08283906561463455
