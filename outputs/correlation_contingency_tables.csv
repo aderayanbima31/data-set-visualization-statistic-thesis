@@ -1,0 +1,23 @@
+table,row,column,count
+contingency_component_area_by_difficulty,App Bar,Easy,2
+contingency_component_area_by_difficulty,App Bar,Hard,1
+contingency_component_area_by_difficulty,App Bar,Medium,3
+contingency_component_area_by_difficulty,Balance,Easy,1
+contingency_component_area_by_difficulty,Balance,Hard,2
+contingency_component_area_by_difficulty,Balance,Medium,5
+contingency_component_area_by_difficulty,Promo,Easy,1
+contingency_component_area_by_difficulty,Promo,Hard,1
+contingency_component_area_by_difficulty,Promo,Medium,2
+contingency_component_area_by_difficulty,Quick Action,Easy,2
+contingency_component_area_by_difficulty,Quick Action,Hard,2
+contingency_component_area_by_difficulty,Quick Action,Medium,4
+contingency_component_area_by_difficulty,Transactions,Easy,1
+contingency_component_area_by_difficulty,Transactions,Hard,1
+contingency_component_area_by_difficulty,Transactions,Medium,3
+contingency_component_area_by_difficulty,UI States,Easy,0
+contingency_component_area_by_difficulty,UI States,Hard,3
+contingency_component_area_by_difficulty,UI States,Medium,2
+phi_is_hard_by_has_error,0,0,3
+phi_is_hard_by_has_error,0,1,23
+phi_is_hard_by_has_error,1,0,0
+phi_is_hard_by_has_error,1,1,10
