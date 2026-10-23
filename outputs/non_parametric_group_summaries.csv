@@ -1,0 +1,11 @@
+test_id,group,n,mean,median,mean_rank
+mann_whitney_difficulty_time,Hard tasks,10,130.752,125.53,12.5
+mann_whitney_difficulty_time,Easy tasks,7,52.505714285714284,49.980000000000004,4.0
+wilcoxon_agent_accuracy,synthetic-agent-A,36,0.9056250000000001,0.907,36.65277777777778
+wilcoxon_agent_accuracy,synthetic-agent-B,36,0.9010555555555554,0.915,36.34722222222222
+kruskal_component_area_time,App Bar,6,79.84666666666666,72.72999999999999,14.333333333333334
+kruskal_component_area_time,Balance,8,86.7675,79.78,19.125
+kruskal_component_area_time,Promo,4,85.16,81.71000000000001,18.75
+kruskal_component_area_time,Quick Action,8,78.33500000000001,68.83000000000001,14.0
+kruskal_component_area_time,Transactions,5,85.732,82.84,18.2
+kruskal_component_area_time,UI States,5,119.94800000000001,125.44000000000001,29.8

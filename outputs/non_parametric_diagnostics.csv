@@ -1,0 +1,5 @@
+test_id,diagnostic,value,threshold,flag,expected_min
+mann_whitney_difficulty_time,Normality assumption,,,Not required; inspect distributions and independence design,
+wilcoxon_agent_accuracy,Zero paired differences,1.0,0.0,Informational; zero differences are omitted by Wilcoxon,
+kruskal_component_area_time,Smallest group size,4.0,2.0,Passes minimum group-size check,
+chi_square_difficulty_status,Expected cells below 5,3.0,0.0,Review sparse expected counts before strong interpretation,2.138888888888889

@@ -1,0 +1,4 @@
+test_id,row_category,Passed with fixes,Passed
+chi_square_difficulty_status,Easy,0,7
+chi_square_difficulty_status,Medium,1,18
+chi_square_difficulty_status,Hard,10,0
