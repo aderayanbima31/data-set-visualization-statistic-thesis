@@ -1,10 +1,16 @@
-# Statistics for Data Science — Migration Analysis
+# Statistics for Data Science — UTS Analysis
 
-Repository ini berisi analisis statistik terhadap metrik sintetis pada skenario migrasi UI Android e-wallet dari komponen legacy menuju Material 3.
+Repository ini berisi analisis statistik untuk tugas UTS **Statistics for Data Science**. Skenarionya adalah migrasi UI Android e-wallet dari komponen legacy menuju Material 3.
+
+## Identitas
+
+- **Mahasiswa:** Derayan Bima Alamsyah
+- **NIM:** 2267210001
+- **Dosen:** Undang Syaripudin, Ph.D., M.Kom.
 
 ## Tujuan project
 
-Project ini menggabungkan empat metode analisis statistik dalam satu notebook:
+Project ini menggabungkan empat requirement UTS dalam satu notebook:
 
 1. Analisis deskriptif.
 2. Korelasi Pearson.
@@ -148,5 +154,10 @@ Raw CSV di folder `data/` tidak dimodifikasi oleh proses analisis. Ringkasan dan
 - `uts_pearson_time_vs_tokens.png` — visualisasi korelasi Pearson.
 - `uts_welch_ttest_mean_comparison.png` — perbandingan mean Easy dan Hard.
 - `uts_mann_whitney_distribution.png` — perbandingan distribusi Easy dan Hard.
+
+## Submission
+
+- [Halaman Notion submission](https://app.notion.com/p/derayanbimaa/402139f90b6a805f8b98ddaffb974689?source=copy_link)
+- [GitHub repository](https://github.com/aderayanbima31/data-set-visualization-statistic-thesis)
 
 Kesimpulan analisis hanya berlaku untuk dataset sintetis yang digunakan dalam project ini. Hasil statistik menunjukkan pola pada sampel pembelajaran, bukan hubungan sebab-akibat atau performa produksi.
