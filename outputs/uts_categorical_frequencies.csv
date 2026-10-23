@@ -1,0 +1,20 @@
+component_area,count,percentage,variable,migration_category,difficulty,agent_id,status
+Balance,40,22.22222222222222,component_area,,,,
+Quick Action,40,22.22222222222222,component_area,,,,
+App Bar,30,16.666666666666664,component_area,,,,
+Transactions,25,13.88888888888889,component_area,,,,
+UI States,25,13.88888888888889,component_area,,,,
+Promo,20,11.11111111111111,component_area,,,,
+,65,36.11111111111111,migration_category,Component,,,
+,50,27.77777777777778,migration_category,Styling,,,
+,40,22.22222222222222,migration_category,Behavior,,,
+,25,13.88888888888889,migration_category,State,,,
+,95,52.77777777777778,difficulty,,Medium,,
+,50,27.77777777777778,difficulty,,Hard,,
+,35,19.444444444444446,difficulty,,Easy,,
+,60,33.33333333333333,agent_id,,,synthetic-agent-A,
+,60,33.33333333333333,agent_id,,,synthetic-agent-B,
+,60,33.33333333333333,agent_id,,,synthetic-agent-C,
+,114,63.33333333333333,status,,,,Passed
+,63,35.0,status,,,,Passed with fixes
+,3,1.6666666666666667,status,,,,Failed

@@ -1,0 +1,4 @@
+analysis,statistic,p_value,decision
+Pearson correlation,0.9607572973535892,1.6387041150004846e-20,Significant
+Welch t-test,14.001607428716152,7.800578630484606e-09,Reject H0
+Mann-Whitney U,70.0,0.00010283833813245579,Reject H0
